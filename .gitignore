@@ -1,0 +1,43 @@
+# .gitignore — Urban Environmental Intelligence Challenge
+
+# ── Environment ───────────────────────────────────────────────────────────────
+.env
+.env.*
+*.env
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+venv/
+env/
+.venv/
+.conda/
+
+# ── Data files (large — do NOT commit raw data to GitHub) ──────────────────────
+data/station_*.parquet
+# Keep final_dataset.parquet excluded too if it is large
+# data/final_dataset.parquet   ← uncomment if >100 MB
+
+# ── OS & IDE ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ── Jupyter (not used but just in case) ───────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Build / dist ──────────────────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+
+# ── Streamlit cache ────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
