@@ -22,8 +22,9 @@ to maximize **data-ink ratio** and minimize **scale distortion**.
 
 | Resource | Link |
 |---|---|
-| 📝 **Medium Blog Post** | https://medium.com/@aimaali0414/building-a-smart-city-air-quality-diagnostic-engine-with-openaq-dc39a358b63|
-| 💼 **LinkedIn Post** | https://www.linkedin.com/posts/aima-ali-4b410b31a_datascience-smartcity-airquality-activity-7433765379719741440-2cXf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDReQgB2pNT7cXIRsnAAm2oZE1_a4Ap2ZE|
+| **Medium Blog Post** | https://medium.com/@aimaali0414/building-a-smart-city-air-quality-diagnostic-engine-with-openaq-dc39a358b63|
+| **LinkedIn Post** | https://www.linkedin.com/posts/aima-ali-4b410b31a_datascience-smartcity-airquality-activity-7433765379719741440-2cXf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDReQgB2pNT7cXIRsnAAm2oZE1_a4Ap2ZE|
+| **Streamlit** |[ https://medium.com/@aimaali0414/building-a-smart-city-air-quality-diagnostic-engine-with-openaq-dc39a358b63](https://urban-environmental-intelligence-ezorpyw9kyv8uzgnb8jh4a.streamlit.app/) |
 
 ---
 
