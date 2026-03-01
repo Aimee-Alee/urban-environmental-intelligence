@@ -22,9 +22,8 @@ to maximize **data-ink ratio** and minimize **scale distortion**.
 
 | Resource | Link |
 |---|---|
-| 🚀 **Streamlit Dashboard** | *[Deploy to Streamlit Cloud and paste link here]* |
-| 📝 **Medium Blog Post** | *[Paste Medium article link here]* |
-| 💼 **LinkedIn Post** | *[Paste LinkedIn post link here]* |
+| 📝 **Medium Blog Post** | https://medium.com/@aimaali0414/building-a-smart-city-air-quality-diagnostic-engine-with-openaq-dc39a358b63|
+| 💼 **LinkedIn Post** | https://www.linkedin.com/posts/aima-ali-4b410b31a_datascience-smartcity-airquality-activity-7433765379719741440-2cXf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDReQgB2pNT7cXIRsnAAm2oZE1_a4Ap2ZE|
 
 ---
 
